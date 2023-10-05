@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">my_first_kotlin_app</string>
+    <string name="home_page">HOME PAGE</string>
+    <string name="name_of_game">Name of Meal</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="over_populer_meal">Over Populer Meal</string>
+    <string name="food_name">Meal</string>
+    <string name="fav_meal">Favorite Meal</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="dessert">Dessert</string>
+    <string name="lamb">Lamb</string>
+    <string name="pasta">Pasta</string>
+    <string name="pork">Pork</string>
+    <string name="vegan">Vegan</string>
+    <string name="vegetarian">Vegetarian</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_meal">Category Meal</string>
+    <string name="random_meal">What would you like to eat?</string>
+    <string name="search">Search Meal</string>
+</resources>
