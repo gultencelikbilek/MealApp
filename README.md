@@ -2,13 +2,13 @@
 A demonstration modern Android development project with Room, ViewModel, Navigation, Hilt and based on MVVM by using Github API.
 
 ## Libraries
-#### - Room
-#### - Retrofit
-#### - Dagger-Hilt
-#### - Navigation 
-#### - Coroutines
-#### - Glide
-#### - viewBinding
+ - Room
+ - Retrofit
+ - Dagger-Hilt
+ - Navigation 
+ - Coroutines
+ - Glide
+ - viewBinding
 
 ## Screenshots
 
